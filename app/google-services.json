@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830787680083",
+    "project_id": "testdemo-7dbf9",
+    "storage_bucket": "testdemo-7dbf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830787680083:android:0c0cb1dff815c2380793a6",
+        "android_client_info": {
+          "package_name": "com.example.a18075801_levantoan_lab8_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830787680083-k6e7e3hksm7h9306h2pnt9931jk73fc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvLpJxsagsKq8cB9LDG1ekrjT2S8OCdrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830787680083-k6e7e3hksm7h9306h2pnt9931jk73fc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HocKyII(2021-2022)/LapTrinhThietBiDiDong_Again/BaiTapHangTuan/18075801_LeVanToan_Lab8_Firebase/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/HocKyII(2021-2022)/LapTrinhThietBiDiDong_Again/BaiTapHangTuan/18075801_LeVanToan_Lab8_Firebase/app/src/main/res/layout/finish_activity.xml" value="0.2" />
+        <entry key="..\:/HocKyII(2021-2022)/LapTrinhThietBiDiDong_Again/BaiTapHangTuan/18075801_LeVanToan_Lab8_Firebase/app/src/main/res/layout/register_activity.xml" value="0.18055555555555555" />
+        <entry key="..\:/HocKyII(2021-2022)/LapTrinhThietBiDiDong_Again/BaiTapHangTuan/18075801_LeVanToan_Lab8_Firebase/app/src/main/res/layout/signin_activity.xml" value="0.152" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
